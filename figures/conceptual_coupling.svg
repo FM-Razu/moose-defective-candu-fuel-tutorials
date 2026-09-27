@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 310" role="img" aria-label="Conceptual links in defective fuel and teaching models">
+<title>Conceptual links in defective fuel and teaching models</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1d2a3a}.heading{font-weight:700;font-size:22px}.label{font-size:15px}.small{font-size:12px;fill:#526174}</style>
+<text class="heading" x="35" y="42">From a sheath defect to coupled fuel behavior</text>
+<rect x="35" y="100" width="210" height="92" rx="10" fill="#eaf3fb" stroke="#2870a5" stroke-width="2"/>
+<text class="label" x="140" y="133" text-anchor="middle">Sheath defect</text>
+<text class="small" x="140" y="159" text-anchor="middle">path for steam</text>
+<rect x="275" y="100" width="210" height="92" rx="10" fill="#eaf3fb" stroke="#2870a5" stroke-width="2"/>
+<text class="label" x="380" y="133" text-anchor="middle">Fuel oxidation</text>
+<text class="small" x="380" y="159" text-anchor="middle">oxygen enters fuel</text>
+<rect x="515" y="100" width="210" height="92" rx="10" fill="#eaf3fb" stroke="#2870a5" stroke-width="2"/>
+<text class="label" x="620" y="133" text-anchor="middle">Lower conductivity</text>
+<text class="small" x="620" y="159" text-anchor="middle">less heat escapes</text>
+<rect x="755" y="100" width="210" height="92" rx="10" fill="#eaf3fb" stroke="#2870a5" stroke-width="2"/>
+<text class="label" x="860" y="133" text-anchor="middle">Higher fuel T</text>
+<text class="small" x="860" y="159" text-anchor="middle">can affect release</text>
+<path d="M 246 146 L 271 146 M 261 137 L 271 146 L 261 155" fill="none" stroke="#2870a5" stroke-width="3"/>
+<path d="M 486 146 L 511 146 M 501 137 L 511 146 L 501 155" fill="none" stroke="#2870a5" stroke-width="3"/>
+<path d="M 726 146 L 751 146 M 741 137 L 751 146 L 741 155" fill="none" stroke="#2870a5" stroke-width="3"/>
+<text class="small" x="35" y="235">Mesh example: geometry</text>
+<text class="small" x="275" y="235">Oxygen example: diffusion</text>
+<text class="small" x="515" y="235">Heat example: change k</text>
+<text class="small" x="755" y="235">Not modeled: fission products / hydriding</text>
+<text class="small" x="35" y="278">Conceptual map based on Lewis (2024); arrows are not solved as a coupled system in these exercises.</text>
+</svg>

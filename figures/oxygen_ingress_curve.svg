@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Oxygen concentration at fuel-path midpoint from MOOSE run">
+<title>Oxygen concentration at fuel-path midpoint from MOOSE run</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#1d2a3a}.heading{font-weight:700;font-size:22px}.label{font-size:15px}.small{font-size:12px;fill:#526174}</style>
+<text class="heading" x="36" y="42">Oxygen ingress at the midpoint</text>
+<text class="small" x="36" y="64">Observed MOOSE output; normalized model units</text>
+<line x1="95" y1="422.0" x2="775" y2="422.0" stroke="#dbe3ec"/>
+<text class="small" x="80" y="426.0" text-anchor="end">0.0</text>
+<line x1="95" y1="312.0" x2="775" y2="312.0" stroke="#dbe3ec"/>
+<text class="small" x="80" y="316.0" text-anchor="end">0.1</text>
+<line x1="95" y1="202.0" x2="775" y2="202.0" stroke="#dbe3ec"/>
+<text class="small" x="80" y="206.0" text-anchor="end">0.2</text>
+<line x1="95" y1="92.0" x2="775" y2="92.0" stroke="#dbe3ec"/>
+<text class="small" x="80" y="96.0" text-anchor="end">0.3</text>
+<line x1="95.0" y1="92" x2="95.0" y2="422" stroke="#eef2f6"/>
+<text class="small" x="95.0" y="444" text-anchor="middle">0</text>
+<line x1="265.0" y1="92" x2="265.0" y2="422" stroke="#eef2f6"/>
+<text class="small" x="265.0" y="444" text-anchor="middle">0.25</text>
+<line x1="435.0" y1="92" x2="435.0" y2="422" stroke="#eef2f6"/>
+<text class="small" x="435.0" y="444" text-anchor="middle">0.5</text>
+<line x1="605.0" y1="92" x2="605.0" y2="422" stroke="#eef2f6"/>
+<text class="small" x="605.0" y="444" text-anchor="middle">0.75</text>
+<line x1="775.0" y1="92" x2="775.0" y2="422" stroke="#eef2f6"/>
+<text class="small" x="775.0" y="444" text-anchor="middle">1</text>
+<line x1="95" y1="92" x2="95" y2="422" stroke="#33465d" stroke-width="2"/>
+<line x1="95" y1="422" x2="775" y2="422" stroke="#33465d" stroke-width="2"/>
+<polyline points="95.0,422.0 129.0,421.1 163.0,417.9 197.0,411.3 231.0,401.1 265.0,387.8 299.0,372.1 333.0,354.8 367.0,336.4 401.0,317.7 435.0,298.8 469.0,280.2 503.0,262.0 537.0,244.2 571.0,227.0 605.0,210.5 639.0,194.5 673.0,179.1 707.0,164.3 741.0,150.0 775.0,136.3" fill="none" stroke="#007e87" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="95.0" cy="422.0" r="3" fill="#007e87"/>
+<circle cx="129.0" cy="421.1" r="3" fill="#007e87"/>
+<circle cx="163.0" cy="417.9" r="3" fill="#007e87"/>
+<circle cx="197.0" cy="411.3" r="3" fill="#007e87"/>
+<circle cx="231.0" cy="401.1" r="3" fill="#007e87"/>
+<circle cx="265.0" cy="387.8" r="3" fill="#007e87"/>
+<circle cx="299.0" cy="372.1" r="3" fill="#007e87"/>
+<circle cx="333.0" cy="354.8" r="3" fill="#007e87"/>
+<circle cx="367.0" cy="336.4" r="3" fill="#007e87"/>
+<circle cx="401.0" cy="317.7" r="3" fill="#007e87"/>
+<circle cx="435.0" cy="298.8" r="3" fill="#007e87"/>
+<circle cx="469.0" cy="280.2" r="3" fill="#007e87"/>
+<circle cx="503.0" cy="262.0" r="3" fill="#007e87"/>
+<circle cx="537.0" cy="244.2" r="3" fill="#007e87"/>
+<circle cx="571.0" cy="227.0" r="3" fill="#007e87"/>
+<circle cx="605.0" cy="210.5" r="3" fill="#007e87"/>
+<circle cx="639.0" cy="194.5" r="3" fill="#007e87"/>
+<circle cx="673.0" cy="179.1" r="3" fill="#007e87"/>
+<circle cx="707.0" cy="164.3" r="3" fill="#007e87"/>
+<circle cx="741.0" cy="150.0" r="3" fill="#007e87"/>
+<circle cx="775.0" cy="136.3" r="3" fill="#007e87"/>
+<text class="label" x="435.0" y="478" text-anchor="middle">Model time</text>
+<text class="label" transform="translate(31 257) rotate(-90)" text-anchor="middle">Normalized concentration</text>
+<text class="label" x="670.0" y="118.3">c = 0.260</text>
+</svg>
