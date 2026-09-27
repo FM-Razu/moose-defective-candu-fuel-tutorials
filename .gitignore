@@ -1,0 +1,9 @@
+# Generated MOOSE outputs and local editor files
+*.e
+!data/01_defective_pin_mesh_in.e
+*.e-s*
+*.xda
+*.xdr
+*.log
+*~
+.DS_Store
